@@ -3,6 +3,11 @@ TSO and polyA trimming of fastq files generated with 10x Visium
 
 
 ## Installation
+
+Clone repository:
+
+`git clone https://github.com/ludvigla/VisiumTrim`
+
 Install cutadapt:
 
 `pip install cutadapt`
